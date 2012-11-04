@@ -1,6 +1,6 @@
 pkgbase = split2flac-git
 	pkgdesc = Split flac/ape/wv/wav + cue sheet into separate tracks
-	pkgver = 20121019
+	pkgver = 20121104
 	pkgrel = 1
 	url = https://github.com/ftrvxmtrx/split2flac
 	arch = any
