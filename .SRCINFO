@@ -1,6 +1,6 @@
 pkgbase = split2flac-git
 	pkgdesc = Split flac/ape/wv/wav + cue sheet into separate tracks
-	pkgver = 20121104
+	pkgver = 20120215.fe1f5a2
 	pkgrel = 1
 	url = https://github.com/ftrvxmtrx/split2flac
 	arch = any
@@ -24,6 +24,8 @@ pkgbase = split2flac-git
 	optdepends = imagemagick: to convert/resize album cover images
 	optdepends = enca: to automatically detect cue sheet charset
 	conflicts = split2flac-hg
+	source = split2flac::git://github.com/ftrvxmtrx/split2flac.git
+	sha256sums = SKIP
 
 pkgname = split2flac-git
 
