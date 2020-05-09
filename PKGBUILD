@@ -5,7 +5,7 @@
 
 pkgname=split2flac-git
 _gitname="split2flac"
-pkgver=20190909.25a491c
+pkgver=20200508.491591d
 pkgrel=1
 pkgdesc="Split flac/ape/wv/wav + cue sheet into separate tracks"
 arch=('any')
